@@ -1,0 +1,31 @@
+{
+    "id": "jen",
+    "name": "Almanac (0.0.8)",
+	"title": "Jen's Almanac (0.0.8)",
+    "requires-steamodded": true,
+    "requires-talisman": true,
+	"categories": ["Content"],
+    "author": "jenwalter666",
+	"repo": "https://web.archive.org/web/20250618075915/https://github.com/jenwalter666/JensBalatroCollection",
+	"downloadURL":
+	"folderName": "Jens",
+	"version": "0.0.8",
+	"automatic-version-check": true,
+    "description": "An extension of Cryptid which destroys what little balance there is left. Not necessarily in your favour, however.",
+    "prefix": "jen",
+    "main_file": "Jen.lua",
+    "badge_colour": "3c3cff",
+	"priority": 999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1304a)",
+		"nopeus (>=2.2.5)",
+		"aurinko (>=0.4.14)",
+		"Talisman (>=2.1.0~dev)",
+		"JenLib (>=0.4.0)",
+		"Cryptid (>=0.5.5a~dev2)"
+    ],
+	"conflicts": [
+		"BetmmaVouchers"
+	],
+    "version": "0.0.8"
+}

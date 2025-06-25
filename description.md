@@ -1,0 +1,1 @@
+"An extension of Cryptid which destroys what little balance there is left. Not necessarily in your favour, however.",
